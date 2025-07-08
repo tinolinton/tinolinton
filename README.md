@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Tinotenda Linton</h1>
+<h1 align="center">Hi 👋, I'm Tinotenda Linton</h1>
 <h3 align="center">Big Data Analyst & Web Dev Enthusiast from Zimbabwe</h3>
 
 <p align="center">
@@ -54,12 +54,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Including Private Repositories)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&theme=radical" alt="tinolinton" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinolinton&theme=radical" alt="tinolinton" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=radical" alt="tinolinton" height="165" />
+  <a href="https://github.com/tinolinton">
+    <!-- Stats including private repositories -->
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&show_owner=true" alt="Tinotenda's GitHub Stats" />
+    
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tinolinton&theme=radical&hide_border=true" alt="Tinotenda's Contribution Streak" />
+    
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Tinotenda's Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Contribution graph with private repos -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=tinolinton&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
@@ -89,3 +99,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
