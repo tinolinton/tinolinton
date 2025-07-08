@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tinotenda Linton</h1>
+<h1 align="center">Hi 👋🏾, I'm Tinotenda Linton</h1>
 <h3 align="center">Big Data Analyst & Web Dev Enthusiast from Zimbabwe</h3>
 
 <p align="center">
