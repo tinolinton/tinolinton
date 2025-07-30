@@ -61,7 +61,10 @@
 
 ## GitHub Stats (Includes Private Repos)
 
+![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=tinolinton&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=tokyonight)
+
 ---
 
 ## Contribution Graph
