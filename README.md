@@ -62,7 +62,7 @@
 ## GitHub Stats (Includes Private Repos)
 
 ![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats-wheat-omega.vercel.app?user=tinolinton&theme=tokyonight-duo&hide_border=true)]
+![GitHub Streak](https://github-readme-streak-stats-wheat-omega.vercel.app?user=tinolinton&theme=tokyonight-duo&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=tokyonight)
 
 ---
