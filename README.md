@@ -64,7 +64,7 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   
-  <img height="165" src="https://streak-stats.demolab.com?user=tinolinton&theme=tokyonight&hide_border=true&fire=FF4500&currStreakLabel=FFA500" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tinolinton)](https://git.io/streak-stats)
   
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </div>
