@@ -61,14 +61,7 @@
 
 ## GitHub Stats (Includes Private Repos)
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tinolinton)](https://git.io/streak-stats)
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tinolinton&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## Contribution Graph
