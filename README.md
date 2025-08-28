@@ -1,4 +1,4 @@
-
+m
 <h1 align="center">Hi 👋🏾, I'm Tinotenda Linton</h1>
 <h3 align="center">Big Data Analyst & Web Dev Enthusiast from Zimbabwe</h3>
 
@@ -25,7 +25,7 @@
 - 🔍 Passionate about **data analysis** and **modern frontend engineering**
 - 🛠️ Currently diving deeper into **Next.js & React Native**
 - 🧠 Always exploring innovative tech stacks & tools
-- 🌐 Portfolio: [chimaliro.com](https://chimaliro.com)
+- 🌐 Portfolio: [chimaliro.com](https://www.chimaliro.com)
 - 📩 Reach me at: **dev@chimaliro.com**
 
 ---
