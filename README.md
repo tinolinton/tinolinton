@@ -1,4 +1,3 @@
-m
 <h1 align="center">Hi 👋🏾, I'm Tinotenda Linton</h1>
 <h3 align="center">Big Data Analyst & Web Dev Enthusiast from Zimbabwe</h3>
 
@@ -53,7 +52,7 @@ m
 
 ---
 
-## GitHub Stats (Includes Private Repos)
+## GitHub Stats (Excludes Private Repos)
 
 ![Tino's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://stats.chimaliro.com?user=tinolinton&theme=tokyonight-duo&hide_border=true)
