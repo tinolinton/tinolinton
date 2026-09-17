@@ -1,127 +1,74 @@
 <!-- Profile README – Tinotenda Linton (@tinolinton) -->
-<!-- Minimal, consistent, and fast-loading -->
 
-<h1 align="center">Hi 👋🏾, I'm Tinotenda Linton</h1>
-<h3 align="center">Big Data Analyst & Web Dev Enthusiast • Zimbabwe</h3>
+<p align="center"><sub>DATA ANALYSIS &nbsp; / &nbsp; WEB DEVELOPMENT &nbsp; / &nbsp; ZIMBABWE</sub></p>
+
+<h1 align="center">Tinotenda Linton</h1>
 
 <p align="center">
-  <a href="https://www.chimaliro.com" title="Portfolio">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-chimaliro.com-0ea5e9?style=flat-square">
-  </a>
-  <a href="mailto:dev@chimaliro.com" title="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-dev@chimaliro.com-d14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/chimaliroo" title="Twitter">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/chimaliroo?style=flat-square&logo=twitter">
-  </a>
-  <a href="https://linkedin.com/in/tinolinton" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+  <strong>Exploring data. Building for the web.</strong><br>
+  Big Data Analyst &amp; Web Dev Enthusiast
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tinolinton&label=Profile%20Views&color=0e75b6&style=flat-square">
+  <a href="https://www.chimaliro.com"><img src="https://img.shields.io/badge/Portfolio-chimaliro.com-0284C7?style=flat-square&amp;labelColor=0F172A" alt="Visit my portfolio at chimaliro.com"></a>
+  &nbsp;
+  <a href="mailto:dev@chimaliro.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s_talk-0284C7?style=flat-square&amp;labelColor=0F172A" alt="Email me at dev@chimaliro.com"></a>
 </p>
 
 ---
 
-## About Me
+## At the intersection of data & development
 
-- 🔍 Passionate about **data analysis** & **modern frontend** engineering  
-- 🛠️ Deep-diving into **Next.js 15** and **React Native**  
-- 🧠 Exploring scalable data stacks (Python, Pandas, Postgres)  
-- 🌐 Portfolio: **[chimaliro.com](https://www.chimaliro.com)**  
-- 📩 Reach me: **dev@chimaliro.com**
+I'm passionate about **data analysis** and **modern frontend engineering**. My interests span Python notebooks, scalable data stacks, and web and mobile interfaces.
 
----
+Currently deep-diving into **Next.js 15** and **React Native**, while exploring **Python, Pandas, and Postgres**.
 
-## Tech Stack
+## Selected work
 
-<p align="center">
-  <!-- Clean, consistent icons (fast + reliable) -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,tailwind,python,pandas,nodejs,postgres,mysql,prisma,docker,git,figma,tensorflow,hadoop&perline=9" alt="Tech stack icons" />
-</p>
+### RAFOZ
+Training and tools for small-scale broiler farming.
 
----
+### Shopy
+Lightweight e-commerce experiments.
 
-## GitHub Stats
+### Chikomborero Foundation
+Youth empowerment and community projects.
 
-<p align="center">
-  <img
-    alt="GitHub stats"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-  <img
-    alt="GitHub streak"
-    height="165"
-    src="https://streak-stats.demolab.com?user=tinolinton&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-</p>
+**Explore the code:** [Python collaborations](https://github.com/tinolinton/Thesis_Projects) &nbsp; / &nbsp; [All repositories](https://github.com/tinolinton?tab=repositories)
 
-<p align="center">
-  <img
-    alt="Top languages"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-</p>
+## Toolkit
 
----
+**Data & machine learning**  
+Python · Pandas · TensorFlow · Hadoop
 
-## Contribution Graph
+**Web & mobile**  
+React · Next.js · React Native · TypeScript · JavaScript · Tailwind CSS
 
-<p align="center">
-  <img
-    alt="Contribution graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tinolinton&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Graph"
-  />
-</p>
+**Backend & databases**  
+Node.js · PostgreSQL · MySQL · Prisma
+
+**Development & design**  
+Docker · Git · Figma
+
+## GitHub activity
+
+[Browse my contributions and repositories](https://github.com/tinolinton)
+
+<details>
+  <summary>View activity stats</summary>
+
+  <p>Live cards are provided by third-party services and may occasionally be unavailable.</p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tinolinton&amp;show_icons=true&amp;theme=transparent&amp;title_color=0284C7&amp;icon_color=0284C7&amp;hide_border=true" alt="GitHub summary statistics for tinolinton">
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&amp;layout=compact&amp;theme=transparent&amp;title_color=0284C7&amp;hide_border=true" alt="Language distribution across public repositories, not a measure of proficiency">
+  </p>
+</details>
 
 ---
 
-## Featured Work
+### Find me elsewhere
 
-- 🐔 **RAFOZ** — Training & tools for small-scale broiler farming  
-- 🛒 **Shopy** — Lightweight e-commerce experiments  
-- 🌱 **Chikomborero Foundation** — Youth empowerment & community projects  
-
-> Want repo cards? Replace repo names below and uncomment:
-
-<!--
-<p align="center">
-  <a href="https://github.com/tinolinton/REPO_ONE">
-    <img alt="Pinned repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=tinolinton&repo=REPO_ONE&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/tinolinton/REPO_TWO">
-    <img alt="Pinned repo 2" src="https://github-readme-stats.vercel.app/api/pin/?username=tinolinton&repo=REPO_TWO&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</p>
--->
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://dev.to/tinolinton">
-    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat-square&logo=devdotto&logoColor=white">
-  </a>
-  <a href="https://twitter.com/chimaliroo">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@chimaliroo-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/tinolinton">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tinolinton-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://kaggle.com/tinolinton">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-@tinolinton-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://instagram.com/chimaliroo">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@chimaliroo-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-</p>
-
-<!--
-Tip: Keep the README fast. If any badge/image fails or loads slowly,
-comment it out (especially third-party stat services).
--->
+[LinkedIn](https://linkedin.com/in/tinolinton) &nbsp; / &nbsp; [Kaggle](https://kaggle.com/tinolinton) &nbsp; / &nbsp; [Dev.to](https://dev.to/tinolinton) &nbsp; / &nbsp; [X](https://twitter.com/chimaliroo) &nbsp; / &nbsp; [Instagram](https://instagram.com/chimaliroo)
