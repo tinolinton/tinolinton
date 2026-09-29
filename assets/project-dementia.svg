@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175" role="img" aria-labelledby="title desc">
+  <title id="title">Dementia risk research</title>
+  <desc id="desc">Comparing DNN and LSTM screening approaches with a documented evaluation workflow.</desc>
+  <rect x="1" y="1" width="998" height="173" rx="14" fill="#151d28" stroke="#354253" stroke-width="2"/>
+  <text x="39" y="34" fill="#9aafbd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">RESEARCH / PYTORCH</text>
+  <text x="38" y="80" fill="#f4f7fa" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="750" letter-spacing="-0.8">Dementia risk research</text>
+  <text x="40" y="121" fill="#c7d2dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">Comparing DNN and LSTM screening approaches</text>
+  <text x="40" y="149" fill="#c7d2dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">with a documented evaluation workflow.</text>
+  <text x="833" y="35" fill="#9aafbd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.6">VIEW REPO</text>
+  <path d="M 943 69 H 966 V 92 M 965 70 L 930 105" fill="none" stroke="#c7d2dc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
