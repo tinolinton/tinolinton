@@ -1,23 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175" viewBox="0 0 1000 175" role="img" aria-labelledby="title desc">
   <title id="title">ZimProvisional</title>
   <desc id="desc">Practice tests, feedback, and progress tracking for Zimbabwean learner drivers.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101b2d"/>
-      <stop offset="1" stop-color="#152438"/>
-    </linearGradient>
-    <clipPath id="clip"><rect width="1000" height="175" rx="18"/></clipPath>
-  </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1000" height="175" fill="url(#bg)"/>
-    <rect x="0" y="0" width="6" height="175" fill="#ffcb89"/>
-    <circle cx="920" cy="90" r="125" fill="#392c25"/>
-    <circle cx="929" cy="87" r="55" fill="none" stroke="#ffcb89" stroke-opacity="0.40" stroke-width="2"/>
-    <circle cx="929" cy="87" r="35" fill="none" stroke="#ffcb89" stroke-opacity="0.28" stroke-width="2"/>
-    <path d="M 914 88 H 946 M 934 76 L 946 88 L 934 100" fill="none" stroke="#ffcb89" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="38" y="33" fill="#ffcb89" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.7">02 / WEB PRODUCT</text>
-    <text x="37" y="79" fill="#f3f7ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="750" letter-spacing="-0.8">ZimProvisional</text>
-    <text x="39" y="121" fill="#c5d2e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">Practice tests, feedback, and progress tracking</text>
-    <text x="39" y="149" fill="#c5d2e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">for Zimbabwean learner drivers.</text>
-  </g>
+  <rect x="1" y="1" width="998" height="173" rx="14" fill="#151d28" stroke="#354253" stroke-width="2"/>
+  <text x="39" y="34" fill="#9aafbd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">WEB APP / NEXT.JS</text>
+  <text x="38" y="80" fill="#f4f7fa" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="36" font-weight="750" letter-spacing="-0.8">ZimProvisional</text>
+  <text x="40" y="121" fill="#c7d2dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">Practice tests, feedback, and progress tracking</text>
+  <text x="40" y="149" fill="#c7d2dc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21">for Zimbabwean learner drivers.</text>
+  <text x="833" y="35" fill="#9aafbd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.6">VIEW REPO</text>
+  <path d="M 943 69 H 966 V 92 M 965 70 L 930 105" fill="none" stroke="#c7d2dc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
