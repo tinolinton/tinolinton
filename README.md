@@ -1,127 +1,78 @@
-<!-- Profile README – Tinotenda Linton (@tinolinton) -->
-<!-- Minimal, consistent, and fast-loading -->
-
-<h1 align="center">Hi 👋🏾, I'm Tinotenda Linton</h1>
-<h3 align="center">Big Data Analyst & Web Dev Enthusiast • Zimbabwe</h3>
-
 <p align="center">
-  <a href="https://www.chimaliro.com" title="Portfolio">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-chimaliro.com-0ea5e9?style=flat-square">
-  </a>
-  <a href="mailto:dev@chimaliro.com" title="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-dev@chimaliro.com-d14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/chimaliroo" title="Twitter">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/chimaliroo?style=flat-square&logo=twitter">
-  </a>
-  <a href="https://linkedin.com/in/tinolinton" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+  <img src="./assets/hero.svg" alt="Tinotenda Linton — data, software, impact. Based in Zimbabwe." width="100%" />
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tinolinton&label=Profile%20Views&color=0e75b6&style=flat-square">
+  I turn complex questions into useful models and software.<br />
+  From agricultural forecasting and health research to tools people use every day.
+</p>
+
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#behind-the-build">Behind the build</a> &nbsp;·&nbsp;
+  <a href="https://chimaliro.com">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:dev@chimaliro.com">Get in touch ↗</a>
 </p>
 
 ---
 
-## About Me
+## Selected work
 
-- 🔍 Passionate about **data analysis** & **modern frontend** engineering  
-- 🛠️ Deep-diving into **Next.js 15** and **React Native**  
-- 🧠 Exploring scalable data stacks (Python, Pandas, Postgres)  
-- 🌐 Portfolio: **[chimaliro.com](https://www.chimaliro.com)**  
-- 📩 Reach me: **dev@chimaliro.com**
+<p>Five public projects that show how I approach research, modelling, and product development. Select a panel to open its repository.</p>
 
----
+<a href="https://github.com/tinolinton/ml_dementia">
+  <img src="./assets/project-dementia.svg" alt="Dementia risk research — a documented DNN and LSTM comparison for screening research. Open the repository." width="100%" />
+</a>
 
-## Tech Stack
+<a href="https://github.com/tinolinton/zdc">
+  <img src="./assets/project-zdc.svg" alt="ZimProvisional — practice tests, progress tracking, and admin tools for Zimbabwean learners. Open the repository." width="100%" />
+</a>
 
-<p align="center">
-  <!-- Clean, consistent icons (fast + reliable) -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,tailwind,python,pandas,nodejs,postgres,mysql,prisma,docker,git,figma,tensorflow,hadoop&perline=9" alt="Tech stack icons" />
-</p>
+<a href="https://github.com/tinolinton/GB-Queue">
+  <img src="./assets/project-queue.svg" alt="Queue wait forecasting — time-aware features and gradient boosting for branch wait estimates. Open the repository." width="100%" />
+</a>
 
----
+<a href="https://github.com/tinolinton/tracker">
+  <img src="./assets/project-tracker.svg" alt="Tracker — resume analysis and tailored application workflows in a responsive web app. Open the repository." width="100%" />
+</a>
 
-## GitHub Stats
+<a href="https://github.com/tinolinton/Yield-Predictive-Model">
+  <img src="./assets/project-yield.svg" alt="Crop yield modelling — a comparison of models for maize and soyabean yields in Mashonaland West. Open the repository." width="100%" />
+</a>
 
-<p align="center">
-  <img
-    alt="GitHub stats"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-  <img
-    alt="GitHub streak"
-    height="165"
-    src="https://streak-stats.demolab.com?user=tinolinton&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-</p>
+<p align="right"><a href="https://github.com/tinolinton?tab=repositories">Browse all public repositories ↗</a></p>
 
-<p align="center">
-  <img
-    alt="Top languages"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-</p>
+## Behind the build
 
----
+<details>
+<summary><strong>01 / Applied data and machine learning</strong> — open project notes</summary>
 
-## Contribution Graph
+<br />
 
-<p align="center">
-  <img
-    alt="Contribution graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tinolinton&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Graph"
-  />
-</p>
+- **[Dementia risk research](https://github.com/tinolinton/ml_dementia)** — compares DNN and LSTM approaches under one documented evaluation protocol. The repository includes data preparation, model design, and limitations. <sub>Python · PyTorch · research</sub>
+- **[Queue wait forecasting](https://github.com/tinolinton/GB-Queue)** — engineers arrival, service, and time features for a gradient boosting model, with chronological validation and residual analysis. <sub>Python · scikit-learn · forecasting</sub>
+- **[Crop yield modelling](https://github.com/tinolinton/Yield-Predictive-Model)** — compares machine learning approaches for maize and soyabean yields in Mashonaland West. <sub>Python · notebooks · agriculture</sub>
 
----
+</details>
 
-## Featured Work
+<details>
+<summary><strong>02 / Software people can use</strong> — open project notes</summary>
 
-- 🐔 **RAFOZ** — Training & tools for small-scale broiler farming  
-- 🛒 **Shopy** — Lightweight e-commerce experiments  
-- 🌱 **Chikomborero Foundation** — Youth empowerment & community projects  
+<br />
 
-> Want repo cards? Replace repo names below and uncomment:
+- **[ZimProvisional](https://github.com/tinolinton/zdc)** — a driving-test preparation app with practice sessions, feedback, progress tracking, and administration. <sub>TypeScript · Next.js · PostgreSQL</sub>
+- **[Tracker](https://github.com/tinolinton/tracker)** — a resume and application workspace that reviews job fit, prepares a revised PDF, and drafts outreach. <sub>React · TypeScript · AI</sub>
 
-<!--
-<p align="center">
-  <a href="https://github.com/tinolinton/REPO_ONE">
-    <img alt="Pinned repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=tinolinton&repo=REPO_ONE&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/tinolinton/REPO_TWO">
-    <img alt="Pinned repo 2" src="https://github-readme-stats.vercel.app/api/pin/?username=tinolinton&repo=REPO_TWO&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</p>
--->
+</details>
 
----
+## What I work with
+
+| Data and research | Product engineering |
+| :--- | :--- |
+| Python · pandas · scikit-learn · PyTorch · Jupyter | TypeScript · React · Next.js · PostgreSQL · Prisma |
 
 ## Connect
 
-<p align="center">
-  <a href="https://dev.to/tinolinton">
-    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat-square&logo=devdotto&logoColor=white">
-  </a>
-  <a href="https://twitter.com/chimaliroo">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@chimaliroo-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/tinolinton">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tinolinton-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://kaggle.com/tinolinton">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-@tinolinton-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://instagram.com/chimaliroo">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@chimaliroo-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-</p>
+Based in Zimbabwe. Find more of my work at **[chimaliro.com](https://chimaliro.com)**, connect on **[LinkedIn](https://linkedin.com/in/tinolinton)**, or email **[dev@chimaliro.com](mailto:dev@chimaliro.com)**.
 
-<!--
-Tip: Keep the README fast. If any badge/image fails or loads slowly,
-comment it out (especially third-party stat services).
--->
+<p align="center"><sub>Built to be readable, quick to load, and useful in light or dark mode.</sub></p>

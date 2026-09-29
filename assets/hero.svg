@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Tinotenda Linton</title>
+  <desc id="desc">Data, software, and impact. Based in Zimbabwe.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091423"/>
+      <stop offset="0.6" stop-color="#102036"/>
+      <stop offset="1" stop-color="#0b1929"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60e6c5"/>
+      <stop offset="1" stop-color="#9bb8ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#53d8bc" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#53d8bc" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#d8e8ff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle cx="965" cy="169" r="260" fill="url(#glow)"/>
+    <path d="M 0 338 L 530 338" stroke="#60e6c5" stroke-width="4"/>
+
+    <rect x="54" y="42" width="7" height="7" rx="2" fill="#60e6c5"/>
+    <text x="77" y="50" fill="#89b8b6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">TLM / PORTFOLIO</text>
+    <text x="54" y="143" fill="#f4f8ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-3">TINOTENDA</text>
+    <text x="54" y="224" fill="url(#signal)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-3">LINTON</text>
+    <text x="57" y="277" fill="#d2deed" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="500">Data science  /  Product engineering</text>
+    <text x="58" y="309" fill="#92a9bd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" letter-spacing="2">ZIMBABWE · BUILDING USEFUL SYSTEMS</text>
+
+    <circle cx="964" cy="170" r="119" fill="none" stroke="#65d9c6" stroke-opacity="0.32" stroke-width="1.5"/>
+    <circle cx="964" cy="170" r="85" fill="none" stroke="#a4baff" stroke-opacity="0.42" stroke-width="1.5" stroke-dasharray="4 8"/>
+    <circle cx="964" cy="170" r="51" fill="#132d3a" stroke="#71e3c9" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M 846 166 C 880 102, 918 104, 964 170 S 1047 246, 1080 172" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="845" cy="166" r="7" fill="#9bb8ff"/>
+    <circle cx="964" cy="170" r="10" fill="#60e6c5"/>
+    <circle cx="1080" cy="172" r="7" fill="#9bb8ff"/>
+    <circle cx="964" cy="51" r="5" fill="#60e6c5"/>
+    <circle cx="1048" cy="253" r="5" fill="#9bb8ff"/>
+    <text x="805" y="60" fill="#8ca5b9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" letter-spacing="2">01 / DISCOVER</text>
+    <text x="1065" y="92" fill="#8ca5b9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" letter-spacing="2">02 / BUILD</text>
+    <text x="1005" y="303" fill="#8ca5b9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" letter-spacing="2">03 / SHARE</text>
+  </g>
+</svg>
