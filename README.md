@@ -1,78 +1,78 @@
-<p align="center">
-  <img src="./assets/hero.svg" alt="Tinotenda Linton — data, software, impact. Based in Zimbabwe." width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <img src="./assets/hero-light.svg" alt="Linton — full-stack software and applied machine learning, based in Zimbabwe." width="100%" />
+</picture>
 
-<p align="center">
-  I turn complex questions into useful models and software.<br />
-  From agricultural forecasting and health research to tools people use every day.
-</p>
+I build production software and the models behind it — from Harare, Zimbabwe. Product work ships as TypeScript. Research work ships as Python. Both are documented enough to reproduce.
 
-<p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#behind-the-build">Behind the build</a> &nbsp;·&nbsp;
-  <a href="https://chimaliro.com">Portfolio ↗</a> &nbsp;·&nbsp;
-  <a href="mailto:dev@chimaliro.com">Get in touch ↗</a>
-</p>
+<table>
+<tr>
+<td width="63%" valign="top">
 
----
+**Product engineering**
+
+TypeScript, React, Next.js, PostgreSQL, Prisma. <samp>40+</samp> applications designed, built, and shipped — education platforms, commerce, logistics, workshop operations — many live in production for clients across Zimbabwe.
+
+**Applied machine learning**
+
+Python, scikit-learn, PyTorch, Jupyter. Screening and forecasting models with documented evaluation protocols: dementia risk, crop yield, queue wait times, fraud detection.
+
+</td>
+<td width="37%" valign="top">
+
+**Elsewhere**
+
+<a href="https://chimaliro.com">chimaliro.com</a> · portfolio<br/>
+<a href="https://tracker.chimaliro.com">tracker.chimaliro.com</a> · live product<br/>
+<a href="https://linkedin.com/in/tinolinton">LinkedIn</a> · network<br/>
+<a href="mailto:dev@chimaliro.com">dev@chimaliro.com</a> · direct
+
+&nbsp;
+
+On GitHub: <samp>88</samp> repositories · <samp>41</samp> TypeScript · <samp>13</samp> notebooks
+
+</td>
+</tr>
+</table>
 
 ## Selected work
 
-<p>Five public projects that show how I approach research, modelling, and product development. Select a panel to open its repository.</p>
+Public projects with open code and a documented process. Newest research first.
 
-<a href="https://github.com/tinolinton/ml_dementia">
-  <img src="./assets/project-dementia.svg" alt="Dementia risk research — a documented DNN and LSTM comparison for screening research. Open the repository." width="100%" />
-</a>
+| | | |
+|:-:|:-|:-:|
+| <samp>01</samp> | **[Dementia risk prediction](https://github.com/tinolinton/ml_dementia)** — DNN-primary, LSTM-secondary screening models, trained and internally validated on the Gweru 2020–2025 cohort, with deployment-ready checkpoints exported. | `Python` `PyTorch` |
+| <samp>02</samp> | **[Tracker](https://github.com/tinolinton/tracker)** — AI resume workspace: benchmarks a CV against a target role, rebuilds the PDF, drafts the tailored application email. Public demo at [tracker.chimaliro.com](https://tracker.chimaliro.com). | `React` `TypeScript` |
+| <samp>03</samp> | **[ZimProvisional](https://github.com/tinolinton/zdc)** — practice platform for the Zimbabwean provisional driving test: question bank, progress tracking, admin tooling. | `Next.js` `PostgreSQL` |
+| <samp>04</samp> | **[Queue wait forecasting](https://github.com/tinolinton/GB-Queue)** — gradient-boosted wait-time estimates with arrival and service features, chronological validation, residual analysis. | `Python` `scikit-learn` |
+| <samp>05</samp> | **[Crop yield modelling](https://github.com/tinolinton/Yield-Predictive-Model)** — machine-learning comparison for maize and soyabean yields in Mashonaland West. | `Python` `Jupyter` |
 
-<a href="https://github.com/tinolinton/zdc">
-  <img src="./assets/project-zdc.svg" alt="ZimProvisional — practice tests, progress tracking, and admin tools for Zimbabwean learners. Open the repository." width="100%" />
-</a>
+Browse the rest at [tinolinton?tab=repositories](https://github.com/tinolinton?tab=repositories).
 
-<a href="https://github.com/tinolinton/GB-Queue">
-  <img src="./assets/project-queue.svg" alt="Queue wait forecasting — time-aware features and gradient boosting for branch wait estimates. Open the repository." width="100%" />
-</a>
+## Stack
 
-<a href="https://github.com/tinolinton/tracker">
-  <img src="./assets/project-tracker.svg" alt="Tracker — resume analysis and tailored application workflows in a responsive web app. Open the repository." width="100%" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,prisma,postgres,supabase,vercel&theme=dark" alt="Product stack: TypeScript, React, Next.js, Node.js, Tailwind, Prisma, PostgreSQL, Supabase, Vercel" width="100%" max-width="810" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,jupyter,pandas,docker,git,githubactions&theme=dark" alt="Research and operations stack: Python, PyTorch, Jupyter, pandas, Docker, Git, GitHub Actions" width="100%" max-width="630" />
 
-<a href="https://github.com/tinolinton/Yield-Predictive-Model">
-  <img src="./assets/project-yield.svg" alt="Crop yield modelling — a comparison of models for maize and soyabean yields in Mashonaland West. Open the repository." width="100%" />
-</a>
+## Signal
 
-<p align="right"><a href="https://github.com/tinolinton?tab=repositories">Browse all public repositories ↗</a></p>
+<table>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&hide_border=true&bg_color=00000000&title_color=3aa981&text_color=8b949e&icon_color=3aa981&include_all_commits=true&count_private=true" alt="GitHub statistics: commits, pull requests, issues, and contributions" width="100%" /></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&hide_border=true&bg_color=00000000&title_color=3aa981&text_color=8b949e&langs_count=8" alt="Language distribution across repositories" width="100%" /></td>
+</tr>
+</table>
 
-## Behind the build
+## Activity
 
-<details>
-<summary><strong>01 / Applied data and machine learning</strong> — open project notes</summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tinolinton/tinolinton/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tinolinton/tinolinton/output/snake-light.svg" alt="Contribution history drawn as an animated snake across the contribution grid" width="100%" />
+</picture>
 
-<br />
+---
 
-- **[Dementia risk research](https://github.com/tinolinton/ml_dementia)** — compares DNN and LSTM approaches under one documented evaluation protocol. The repository includes data preparation, model design, and limitations. <sub>Python · PyTorch · research</sub>
-- **[Queue wait forecasting](https://github.com/tinolinton/GB-Queue)** — engineers arrival, service, and time features for a gradient boosting model, with chronological validation and residual analysis. <sub>Python · scikit-learn · forecasting</sub>
-- **[Crop yield modelling](https://github.com/tinolinton/Yield-Predictive-Model)** — compares machine learning approaches for maize and soyabean yields in Mashonaland West. <sub>Python · notebooks · agriculture</sub>
+**Open to collaboration** — data problems, product builds, research partnerships. Write to **[dev@chimaliro.com](mailto:dev@chimaliro.com)**.
 
-</details>
-
-<details>
-<summary><strong>02 / Software people can use</strong> — open project notes</summary>
-
-<br />
-
-- **[ZimProvisional](https://github.com/tinolinton/zdc)** — a driving-test preparation app with practice sessions, feedback, progress tracking, and administration. <sub>TypeScript · Next.js · PostgreSQL</sub>
-- **[Tracker](https://github.com/tinolinton/tracker)** — a resume and application workspace that reviews job fit, prepares a revised PDF, and drafts outreach. <sub>React · TypeScript · AI</sub>
-
-</details>
-
-## What I work with
-
-| Data and research | Product engineering |
-| :--- | :--- |
-| Python · pandas · scikit-learn · PyTorch · Jupyter | TypeScript · React · Next.js · PostgreSQL · Prisma |
-
-## Connect
-
-Based in Zimbabwe. Find more of my work at **[chimaliro.com](https://chimaliro.com)**, connect on **[LinkedIn](https://linkedin.com/in/tinolinton)**, or email **[dev@chimaliro.com](mailto:dev@chimaliro.com)**.
-
-<p align="center"><sub>Built to be readable, quick to load, and useful in light or dark mode.</sub></p>
+<samp>plain markdown · zero trackers · light and dark native · refreshed 2026-09-30</samp>
