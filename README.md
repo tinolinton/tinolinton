@@ -59,8 +59,8 @@ Browse the rest at [tinolinton?tab=repositories](https://github.com/tinolinton?t
 
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=tinolinton&show_icons=true&hide_border=true&bg_color=00000000&title_color=3aa981&text_color=8b949e&icon_color=3aa981&include_all_commits=true&count_private=true" alt="GitHub statistics: commits, pull requests, issues, and contributions" width="100%" /></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinolinton&layout=compact&hide_border=true&bg_color=00000000&title_color=3aa981&text_color=8b949e&langs_count=8" alt="Language distribution across repositories" width="100%" /></td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tinolinton&show_icons=true&hide_border=true&bg_color=00000000&title_color=3aa981&text_color=8b949e&icon_color=3aa981&include_all_commits=true&count_private=true" alt="GitHub statistics: commits, pull requests, issues, and contributions" width="100%" /></td>
+<td width="50%"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tinolinton&layout=compact&hide_border=true&bg_color=00000000&title_color=3aa981&text_color=8b949e&langs_count=8" alt="Language distribution across repositories" width="100%" /></td>
 </tr>
 </table>
 
